@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PyTheorem
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ understand\ and\ practice\ using\ Math\ method,\ by\ making\ a\ two\ tringle\ and\ finding\ its\ sides\r\n\r\n\ @author\ Paul\ Jeon\r\n\ @version\ 2023/10/23\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

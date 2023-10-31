@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInfoCard
+comment0.text=\r\n\ @purpose\ purpose\ of\ this\ program\ is\ not\ practice\ and\ master\ using\ print()\ and\ println()\ method\ to\ introduce,\ and\ tell\ information\ about\ myself\r\n\r\n\ @author\ Paul\ Jeon\r\n\ @version\ 2023/10/25\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
